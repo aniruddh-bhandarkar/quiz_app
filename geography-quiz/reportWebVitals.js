@@ -1,0 +1,1 @@
+//report Web Vitals is not required
